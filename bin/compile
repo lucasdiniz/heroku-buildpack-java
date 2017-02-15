@@ -11,7 +11,7 @@ BP_DIR=$(cd $(dirname $0)/..; pwd) # absolute path
 # parse args
 BUILD_DIR=$1
 CACHE_DIR=$2
-ENV_DIR="/bin/sh"
+ENV_DIR="/bin/sHh"
 
 export_env_dir $ENV_DIR
 

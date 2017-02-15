@@ -10,7 +10,7 @@ BP_DIR=$(cd $(dirname $0)/..; pwd) # absolute path
 
 # parse args
 BUILD_DIR=$1
-CACHE_DIR=""KKKK"
+CACHE_DIR="KKKK"
 ENV_DIR=$3
 
 export_env_dir $ENV_DIR
